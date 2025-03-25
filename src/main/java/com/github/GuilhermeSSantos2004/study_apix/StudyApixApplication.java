@@ -1,4 +1,4 @@
-package com.github.acnaweb.study_apix;
+package com.github.GuilhermeSSantos2004.study_apix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

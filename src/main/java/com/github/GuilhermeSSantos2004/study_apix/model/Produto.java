@@ -1,4 +1,4 @@
-package com.github.acnaweb.study_apix;
+package com.github.GuilhermeSSantos2004.study_apix.model;
 
 public class Produto {
     private Long id;
@@ -16,7 +16,4 @@ public class Produto {
     public void setNome(String nome) {
         this.nome = nome;
     }
-
-    
-
 }
